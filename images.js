@@ -1,4 +1,4 @@
-{
+const images = [
     {
         author: 'Павел Федотов',
         name: 'Сватовство майора',
@@ -156,7 +156,7 @@
         imageNum: '25',
     },
     {
-        author: 'Рафаель',
+        author: 'Рафаэль',
         name: 'Мадонна в кресле',
         year: '1514',
         imageNum: '26',
@@ -1445,5 +1445,6 @@
         year: '1837',
         imageNum: '240',
     },
-}
+];
 
+export default images;
